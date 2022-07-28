@@ -1,1 +1,2 @@
 <h1>Hola mundo<h1>
+![Rayo]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
