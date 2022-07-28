@@ -1,2 +1,6 @@
+---
+img: yosh-ginsu.jpg # Add image post (optional)
+---
+
 <h1>Hola mundo<h1>
 ![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
