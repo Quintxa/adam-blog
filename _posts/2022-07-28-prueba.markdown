@@ -1,2 +1,2 @@
 <h1>Hola mundo<h1>
-![Rayo]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
+![Rayo]({{site.baseurl}}/assets/img/rayo-mcqueen-e1596022004235.jpg)
